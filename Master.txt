@@ -1,3 +1,4 @@
 Test VIM
 Vim part 2
 Test longer commit
+Test : git commit --amend
