@@ -6,3 +6,5 @@ Test : git commit --amend 1
 Test : git commit --amend 2
 
 Add git ignore
+
+Hello
