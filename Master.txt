@@ -8,3 +8,6 @@ Test : git commit --amend 2
 Add git ignore
 
 Hello world  !!!!
+
+
+Thay doi tu branch 2
