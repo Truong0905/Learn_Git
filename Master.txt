@@ -7,4 +7,4 @@ Test : git commit --amend 2
 
 Add git ignore
 
-Hello world
+Hello world  !
