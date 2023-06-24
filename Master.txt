@@ -9,5 +9,5 @@ Add git ignore
 
 Hello world  !!!!
 
-thay doi tu van 1
+thay doi tu le 1
 thay doi tu van 1
