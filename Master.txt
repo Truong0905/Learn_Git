@@ -10,6 +10,6 @@ Add git ignore
 Hello world  !!!!
 
 Thay doi tu branch 1
-Thay doi tu branch 1
+Thay doi tu branch 1 ( thay doi tu 2)
 asjkhfkasdasfaslhjf
 fasdfjkashfk
