@@ -7,6 +7,8 @@ Test : git commit --amend 2
 
 Add git ignore
 
+test source tree
+
 Hello world  !!!!
 
 thay doi tu le 1
